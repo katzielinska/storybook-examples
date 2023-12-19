@@ -12,9 +12,9 @@
   background-color: #00615F;
 }
 .storybook-button--secondary {
-  color: #333;
+  color:#00615F;
   background-color: transparent;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  box-shadow: #00615F 0px 0px 0px 2px inset;
 }
 .storybook-button--small {
   font-size: 12px;
